@@ -20,18 +20,18 @@ Su propósito es meramente académico, ya que el uso de cadenas de texto como su
 
 
 +> basico: Modulo de funciones básicas para conversión de tipos.
-|
+
 +----> numbers.py: Modulo para conversión de tipos (entero, carácter, binario, hexadecimales).
-|
+
 +----> utils.py: Modulo de funciones útiles para operar cadenas de textos en formatos de 1 y 0.
 
 
 +> algoritmo: Modulo general del algoritmo DES.
-|
+
 +----> key.py: Modulo para generar y verificar las claves a usar en el algoritmo des modo BIN y HEX.
-|
+
 +----> subkeys.py: Modulo que genera las 16 subclaves que usa el algoritmo DES.
-|
+
 +----> des.py: Modulo principal que ejecuta las funciones de cifrado y descifrado.
 
 == Uso ==
